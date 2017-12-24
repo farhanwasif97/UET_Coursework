@@ -1,0 +1,11 @@
+﻿Build started 12/24/2017 8:51:07 AM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.lib" /MACHINE:X86 "Debug\Assignment 2 - Inserting comma.obj"
+         Debug\stdafx.obj
+         Assignment 2 - Inserting comma.vcxproj -> C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.exe
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.23
