@@ -9,17 +9,34 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	char grade;
 
-	cout << "Please enter your grade" << endl;
+	cout << "Enter your grade" << endl;
 	cin >> grade;
 
-	if (grade = A)
+	if (grade != 'A' && grade != 'B' && grade != 'C')
 	{
-		
+		cout << "Your entry is invalid" << endl;
+	}
+	
+	else if (grade == 'A')
+	{
+		cout << "Percentage is  >= 90 % " << endl;
 	}
 
+	else if (grade == 'B')
 	{
-
+		cout << "Percentage is >= 80 % & < 90 %" << endl;
 	}
-	return 0;
+
+	else if (grade == 'C')
+	{
+		cout << "Percentage is >= 70 % & < 80 %" << endl;
+	}
+
+	else if (grade == 'U')
+	{
+		cout << "Percentage is < 70 %" << endl;
+	}
+	
+		return 0;
 }
 
