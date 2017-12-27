@@ -1,0 +1,16 @@
+﻿Build started 12/27/2017 2:18:31 PM.
+     1>Project "D:\Projects\Strings - Task 4 (swap)\Strings - Task 4 (swap)\Strings - Task 4 (swap).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Strings - Task 4 (swap).pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Strings - Task 4 (swap).pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Strings - Task 4 (swap).cpp"
+         Strings - Task 4 (swap).cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\Strings - Task 4 (swap)\Debug\Strings - Task 4 (swap).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\Strings - Task 4 (swap)\Debug\Strings - Task 4 (swap).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\Strings - Task 4 (swap)\Debug\Strings - Task 4 (swap).lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\Strings - Task 4 (swap).obj"
+         Strings - Task 4 (swap).vcxproj -> D:\Projects\Strings - Task 4 (swap)\Debug\Strings - Task 4 (swap).exe
+     1>Done Building Project "D:\Projects\Strings - Task 4 (swap)\Strings - Task 4 (swap)\Strings - Task 4 (swap).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00

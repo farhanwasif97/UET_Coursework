@@ -1,0 +1,20 @@
+// For-Loop Assignment.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	int x = 10;
+
+	for (int y = 0; y < x; y++)
+	{
+		cout << "The number is: " << y << endl;
+
+		cout << "The square of the number is: " << y * y << endl;
+	}
+	return 0;
+}
+
