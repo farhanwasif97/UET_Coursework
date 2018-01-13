@@ -1,11 +1,16 @@
-﻿Build started 12/24/2017 8:51:07 AM.
-     1>Project "C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma.vcxproj" on node 2 (Build target(s)).
-     1>Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.lib" /MACHINE:X86 "Debug\Assignment 2 - Inserting comma.obj"
+﻿Build started 1/13/2018 11:49:54 AM.
+     1>Project "D:\Projects\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Assignment 2 - Inserting comma.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Assignment 2 - Inserting comma.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Assignment 2 - Inserting comma.cpp"
+         Assignment 2 - Inserting comma.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.lib" /MACHINE:X86 "Debug\Assignment 2 - Inserting comma.obj"
          Debug\stdafx.obj
-         Assignment 2 - Inserting comma.vcxproj -> C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.exe
-     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2013\Projects\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma.vcxproj" (Build target(s)).
+         Assignment 2 - Inserting comma.vcxproj -> D:\Projects\Assignment 2 - Inserting comma\Debug\Assignment 2 - Inserting comma.exe
+     1>Done Building Project "D:\Projects\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma\Assignment 2 - Inserting comma.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:08.23
+Time Elapsed 00:00:03.58
